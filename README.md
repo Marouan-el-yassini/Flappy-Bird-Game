@@ -44,15 +44,6 @@ Each pipe you pass increases your score — and the game speed too!
 - .NET Framework 4.7.2 or higher
 
 
-## 🖼️ Screenshots
-
-> Place your screenshots inside a `screenshots/` folder.
-
- Gameplay | Game Over |
------------|------------|
-|![Game Over]() | ![Game Over]() |
-
----
 
 ## 🧩 Code Highlights
 
